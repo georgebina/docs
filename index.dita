@@ -3,7 +3,7 @@
 <!--This file is part of the DITA Open Toolkit project. See the accompanying LICENSE.md file for applicable licenses.-->
 
 <topic id="dita-otprojecthome" xml:lang="en-US">
-  <title>DITA Open Toolkit <keyword keyref="release"/></title>
+  <title>DITA Open Toolkit test <keyword keyref="release"/></title>
   <shortdesc>The <term>DITA Open Toolkit</term>, or <term>DITA-OT</term> for short, is a set of Java-based, open-source
     tools that provide processing for XML content authored in the <term>Darwin Information Typing
     Architecture</term>.</shortdesc>
@@ -14,8 +14,8 @@
 
     <section>
       <title>DITA-OT documentation</title>
-      <p>The DITA Open Toolkit documentation provides information about installing, running, configuring and extending
-        the toolkit. Each part is available in the navigation panel on the left.</p>
+      <p>The DITA Open Toolkit documentation provides information about installing, running,
+        configuring and extending the toolkit. Each part is available in the navigation panel.</p>
       <ul>
         <li>See the <xref keyref="release-notes"/> for information on the changes in the current release.</li>
         <li><ph conref="getting-started/index.dita#ID/ph_docs-gs-desc"/></li>
