@@ -5,7 +5,7 @@
 <concept id="ID" xml:lang="en-US">
   <title>DITA Open Toolkit User Guide</title>
   <titlealts>
-    <navtitle>User Guide</navtitle>
+    <navtitle>DITA-OT User Guide</navtitle>
   </titlealts>
   <shortdesc>
     <ph id="ph_docs-ug-desc">The <ph><cite>User Guide</cite></ph> is designed to provide basic information about using
