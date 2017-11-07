@@ -3,7 +3,7 @@
 <!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
 
 <topic id="lwdita-input">
-  <title>Preview support for Lightweight DITA</title>
+  <title>Preview support for Lightweight DITA GEORGE</title>
   <shortdesc>DITA-OT provides preview support for the MDITA and HDITA authoring formats proposed for
     <xref keyref="lwdita"/>, or “<term>LwDITA</term>”. These proposed formats are alternative representations of DITA
     content in Markdown or HTML.</shortdesc>
