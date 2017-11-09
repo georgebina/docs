@@ -4,9 +4,9 @@
 
 <topic id="lwdita-input">
   <title>Preview support for Lightweight DITA ADD</title>
-  <shortdesc>DITA-OT provides preview support for the MDITA and HDITA authoring formats proposed for
-    <xref keyref="lwdita"/>, or “<term>LwDITA</term>”. These proposed formats are alternative representations of DITA
-    content in Markdown or HTML.</shortdesc>
+  <shortdesc>DITA-OT provides preview support for the MDITA and HDITA authoring ADD formats proposed
+    for <xref keyref="lwdita"/>, or “<term>LwDITA</term>”. These proposed formats are alternative
+    representations of DITA content in Markdown or HTML.</shortdesc>
 
   <body>
     <section>
