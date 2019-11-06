@@ -3,7 +3,7 @@
 <!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
 
 <concept id="availabletransforms" xml:lang="en-US">
-  <title>DITA-OT transformations (output formats)</title>
+  <title>DITA-OT transformations</title>
   <titlealts>
     <navtitle>Output formats</navtitle>
   </titlealts>
